@@ -23,7 +23,7 @@
 
 /datum/outfit/job/roguetown/mercenary/grenzelhoft/pre_equip(mob/living/carbon/human/H)
 	..()
-	wrists = /obj/item/clothing/wrists/roguetown/bracers
+	wrists = /obj/item/clothing/wrists/roguetown/bracers/grenz
 	belt = /obj/item/storage/belt/rogue/leather
 	beltl = /obj/item/storage/keyring/mercenary
 	beltr = /obj/item/storage/belt/rogue/pouch/coins/poor

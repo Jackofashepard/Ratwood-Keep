@@ -22,6 +22,11 @@
 	smeltresult = /obj/item/ingot/steel
 	sewrepair = FALSE
 
+/obj/item/clothing/wrists/roguetown/bracers/grenz
+	name = "treated bracers"
+	desc = "Steel bracers. This one has been heat treated to match the look of blacksteel"
+	color = "#757474"
+
 /obj/item/clothing/wrists/roguetown/bracers/leather
 	name = "leather bracers"
 	desc = "Leather bracers worn on the wrists."
